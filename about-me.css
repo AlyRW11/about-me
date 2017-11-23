@@ -1,0 +1,62 @@
+ul{
+    color: white;
+    list-style: none;
+    margin: left;
+}
+
+section > img {
+    width: 150px;
+    height: 150px;
+    padding: 10px
+}
+
+footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-size: 8pt;
+}
+
+.container {
+    background: rgb(53, 50, 50);
+    font-family: Tahoma, sans-serif, Verdana;
+    padding: 0px 100px 0px 100px;
+}
+
+.gry-bx {
+    color: #ffc300;
+    margin: left;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-content: flex-start;
+    font-family: Helvetica;
+}
+
+.intro {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: baseline;
+    font-family: Helvetica;
+}
+
+.helio {
+    padding: 10px;
+    background-color: #4e4f4e;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.node {
+    padding: 5px;
+    background-color: #4e4f4e;
+}
+
+.mr-abt-node {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
