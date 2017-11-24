@@ -64,7 +64,7 @@ header {
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
-    align-content: space-around;
+    align-self: flex-start;
 }
 
 .more-info {
